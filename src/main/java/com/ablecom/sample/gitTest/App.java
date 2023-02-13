@@ -14,5 +14,8 @@ public class App
         
         // feature1 추가
         System.out.println("Feature1");
+
+        // feature2 추가
+        System.out.println("Feature2");
     }
 }
